@@ -21,11 +21,11 @@ python manage.py migrate
 ```
 # url(r'^admin/', admin.site.urls),
 ```
-by deleting "#". Then login into admin(Django administration). click Users -> add and add user. 
+by deleting "#". Then login into admin(Django administration). click Users -> add and add user.
 - Again comment this line:
 ```
 url(r'^admin/', admin.site.urls),
-``` 
+```
 to hide admin(Django administration).
 
 ## Features
@@ -42,7 +42,3 @@ to hide admin(Django administration).
 * Restaurant Order
 * Facebook Commerce
 * etc...
-
-### Contact me 
-Facebook: facebook.com/inzamul36 <br>
-Email: inzamul36@gmail.com, inzamuk36@live.com, inzamul36@yahoo.com    
